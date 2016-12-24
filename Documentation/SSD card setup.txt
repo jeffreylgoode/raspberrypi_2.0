@@ -1,0 +1,1 @@
+Configure blank SSD car for Raspbian
